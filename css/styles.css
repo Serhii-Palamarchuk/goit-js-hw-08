@@ -9,7 +9,7 @@ body {
 .gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
+  gap: 24px;
   list-style: none;
   padding: 20px;
   background: white;
